@@ -60,13 +60,13 @@ content:
         title: VASL Solutions
         link: vasl.ir
           # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
+          #        additional_links:
+          #          - title:  sproogen/modern-resume-theme
+          #            icon: fab fa-github
+          #            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -76,25 +76,47 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: VASL Solutions
+        link: vasl.ir
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Software Engineer
+        caption: September 2019 - present
+
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          - Developed a new version of  BaaS with modular architecture from scratch
+          - My favorite part of the aforementioned project was the fact that I was able to customize our software for enterprise businesses rapidly and easily using a modular architecture.
+          - Developed new Software functionalities ensuring that clients’ vision and requirements were met.
+          - Developed all modules, services and create all CI/CDs from build to deploy on stage and production server.
+          - Developed a simple user behavior tracker.
+          Techs: Java, SpringBoot, Docker, Kafka, MongoDB, Redis, Elasticsearch
+
+
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Jibit
+        link: jibit.ir
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Software Engineer
+        caption: April 2018 - April 2019
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          - Developed a game-changer internet payment gateway from scratch
+          in this IPG that we called QRPG, you didn't need to use your card information, you just need to scan a QR code and pay it with your Jibit credit.
+          - Developed some services on microservice architecture.
+          - Contribution in decisions for architecture and design of the project.
+          - Verifying the expected application behavior using automated tests.
+          Techs: Java, Redis, Docker, MySQL, GitLab CI/CD, NGINX, ELK, golang
+
+
+      - layout: left
+        title: Retain.ir
+        link: Retain.ir
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: August 2017 - April 2018
+        description: | # this will include new lines to allow paragraphs
+          - Retain is a leading SASS live support solution based in Tehran, Iran. As a Back-end Engineer, my core activities were:
+          - Creating new features, functionalities, and capabilities on the software’s core back-end by using PHP, Laravel, and other related technologies.
+          - Recommending solutions for a streamlined, user-friendly interface with the design team.
+          Techs: PHP, MySQL, RabbitMQ, Laravel, MongoDB, Git, NGINX.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -134,4 +156,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
