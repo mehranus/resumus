@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: mehranus/resumus
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -122,6 +122,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      personal hobbies:
       - Online Gaming
       - Nature
       - Music
