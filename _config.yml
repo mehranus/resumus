@@ -9,7 +9,7 @@ version: 2
 name: Mehran Behnam
 title: Software Engineer
 email: mehranbehnam77@gmail.com
-website: mehranbehnam77.ir
+website: mehranbehnam.ir
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -48,9 +48,9 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  A Software engineer with experience of working in distributed and scalable projects like real-time chat and financial services, working knowledge of agile methodology, passion for learning Cloud Native patterns, algorithms, concurrency models.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>java</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Experience # Title for the section
