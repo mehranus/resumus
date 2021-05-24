@@ -53,25 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: VASL Solutions
-        link: vasl.ir
-          # link_text: Project Website
-          #        additional_links:
-          #          - title:  sproogen/modern-resume-theme
-          #            icon: fab fa-github
-          #            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -88,7 +69,7 @@ content:
           - Developed new Software functionalities ensuring that clients’ vision and requirements were met.
           - Developed all modules, services and create all CI/CDs from build to deploy on stage and production server.
           - Developed a simple user behavior tracker.
-          Techs: Java, SpringBoot, Docker, Kafka, MongoDB, Redis, Elasticsearch
+          - Techs: Java, SpringBoot, Docker, Kafka, MongoDB, Redis, Elasticsearch
 
 
       - layout: left
@@ -103,7 +84,7 @@ content:
           - Developed some services on microservice architecture.
           - Contribution in decisions for architecture and design of the project.
           - Verifying the expected application behavior using automated tests.
-          Techs: Java, Redis, Docker, MySQL, GitLab CI/CD, NGINX, ELK, golang
+          - Techs: Java, Redis, Docker, MySQL, GitLab CI/CD, NGINX, ELK, golang
 
 
       - layout: left
@@ -116,7 +97,17 @@ content:
           - Retain is a leading SASS live support solution based in Tehran, Iran. As a Back-end Engineer, my core activities were:
           - Creating new features, functionalities, and capabilities on the software’s core back-end by using PHP, Laravel, and other related technologies.
           - Recommending solutions for a streamlined, user-friendly interface with the design team.
-          Techs: PHP, MySQL, RabbitMQ, Laravel, MongoDB, Git, NGINX.
+          - Techs: PHP, MySQL, RabbitMQ, Laravel, MongoDB, Git, NGINX.
+      - layout: left
+        title: Wphelper.ir
+        link: Wphelper.ir
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: December 2016 - August 2107
+        description: | # this will include new lines to allow paragraphs
+          - Developed & helped other developers create high quality and well designed
+          - plugins and themes for around 300 WordPress installations.
+          - Techs: PHP, MySQL, wordpress, etc.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
