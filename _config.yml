@@ -48,7 +48,7 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A Software engineer with experience of working in distributed and scalable projects like real-time chat and financial services, working knowledge of agile methodology, passion for learning Cloud Native patterns, algorithms, concurrency models.
+  A Software engineer with experience of working in distributed and scalable projects like real-time chat and financial services, working knowledge of agile methodology, passion for learning Cloud Native patterns, algorithms, concurrency models.
 
   I am most skilled in: <mark>java</mark> and <mark>Eating Pizza</mark>
 
