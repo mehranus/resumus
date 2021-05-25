@@ -117,16 +117,14 @@ content:
         caption: 2010 - 2013
         sub_title: BSc Software Engineering
 
-
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests software engineering some of my other interests and hobbies are:
-    - Online Gaming 🎮
-    - Nature 🌳 🌲
-    - Music 🎵 🎹 🎼
-    - Hiking 🥾
+      - Online Gaming 🎮
+      - Nature 🌳 🌲
+      - Music 🎵 🎹 🎼
+      - Hiking 🥾
 
 # Footer
 footer_show_references: true
