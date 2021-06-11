@@ -35,7 +35,7 @@ additional_links:
     icon: fas fa-blog
     url: http://blog.mehranbehnam.ir
   - title: Medium
-    icon: fas fa-medium
+    icon: fab fa-medium
     url: https://medium.com/@mehranbehnam77
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
