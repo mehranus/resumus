@@ -22,7 +22,7 @@ darkmode: true
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin_username: mehranbehnam77
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ darkmode: true
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: itsgoingto.be
+ icon: fas fa-blog
+ url: http://blog.mehranbehnam.ir
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
