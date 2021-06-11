@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 #twitter_username: facespics
-#github_username:  sproogen
+github_username:  mehranus
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -34,6 +34,9 @@ additional_links:
   - title: Blog
     icon: fas fa-blog
     url: http://blog.mehranbehnam.ir
+  - title: Medium
+    icon: fas fa-medium
+    url: https://medium.com/@mehranbehnam77
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
